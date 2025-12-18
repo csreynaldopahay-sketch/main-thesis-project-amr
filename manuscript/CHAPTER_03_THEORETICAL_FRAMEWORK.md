@@ -1,6 +1,6 @@
 # CHAPTER 3: THEORETICAL FRAMEWORK
 
-## Pattern Recognition of Antibiotic Resistance in *Escherichia coli*, *Salmonella* spp., *Shigella* spp., and *Vibrio cholerae* from the Water–Fish–Human Nexus
+## Pattern Recognition of Antibiotic Resistance in Gram-negative Bacteria from the Water–Fish–Human Nexus
 
 ---
 

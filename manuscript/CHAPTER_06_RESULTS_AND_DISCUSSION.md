@@ -1,6 +1,6 @@
 # CHAPTER 6: RESULTS AND DISCUSSION
 
-## Pattern Recognition of Antibiotic Resistance in *Escherichia coli*, *Salmonella* spp., *Shigella* spp., and *Vibrio cholerae* from the Water–Fish–Human Nexus
+## Pattern Recognition of Antibiotic Resistance in Gram-negative Bacteria from the Water–Fish–Human Nexus
 
 ---
 
@@ -51,7 +51,7 @@ The analysis-ready dataset (n=491) comprises:
 |----------|--------------|
 | **By Region** | BARMM: 250 (50.8%), Central Luzon: 140 (28.5%), Eastern Visayas: 102 (20.7%) |
 | **By Environment** | Fish: 274 (55.8%), Water: 177 (36.0%), Hospital: 41 (8.2%) |
-| **By Species** | *E. coli*: 227 (46.2%), *K. pneumoniae*: 149 (30.3%), *E. cloacae*: 68 (13.8%), Others: 47 (9.6%) |
+| **By Species** | *E. coli*: 227 (46.2%), *K. pneumoniae*: 149 (30.3%), *E. cloacae*: 68 (13.8%), *E. aerogenes*: 23 (4.7%), *Salmonella* spp.: 23 (4.7%), *Vibrio* spp.: 1 (0.2%) |
 
 ---
 

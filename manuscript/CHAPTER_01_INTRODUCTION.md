@@ -1,6 +1,10 @@
 # CHAPTER 1: INTRODUCTION
 
-## Pattern Recognition of Antibiotic Resistance in *Escherichia coli*, *Salmonella* spp., *Shigella* spp., and *Vibrio cholerae* from the Water–Fish–Human Nexus
+## Pattern Recognition of Antibiotic Resistance in Gram-negative Bacteria from the Water–Fish–Human Nexus
+
+---
+
+> **⚠️ IMPORTANT DISCLAIMER**: This research is intended for **exploratory pattern recognition and surveillance analysis only**. The findings should NOT be used for clinical decision support, treatment recommendations, or patient-level predictions. All associations reported are observational and do not establish causal relationships. No patient-level identifiers are processed in this study.
 
 ---
 
