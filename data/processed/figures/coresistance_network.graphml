@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="pvalue" attr.type="float" />
+  <key id="d2" for="edge" attr.name="weight" attr.type="float" />
+  <key id="d1" for="node" attr.name="weighted_degree" attr.type="float" />
+  <key id="d0" for="node" attr.name="degree" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="AM">
+      <data key="d0">4</data>
+      <data key="d1">1.1432768663862267</data>
+    </node>
+    <node id="AMC">
+      <data key="d0">1</data>
+      <data key="d1">0.3728411336994311</data>
+    </node>
+    <node id="CF">
+      <data key="d0">1</data>
+      <data key="d1">0.35594764830960135</data>
+    </node>
+    <node id="CN">
+      <data key="d0">1</data>
+      <data key="d1">0.17605005983364655</data>
+    </node>
+    <node id="SXT">
+      <data key="d0">6</data>
+      <data key="d1">2.499700440038732</data>
+    </node>
+    <node id="C">
+      <data key="d0">2</data>
+      <data key="d1">0.899373139115174</data>
+    </node>
+    <node id="CFT">
+      <data key="d0">5</data>
+      <data key="d1">1.5434833337276772</data>
+    </node>
+    <node id="CFO">
+      <data key="d0">2</data>
+      <data key="d1">0.6788283436049262</data>
+    </node>
+    <node id="DO">
+      <data key="d0">3</data>
+      <data key="d1">1.589548700310568</data>
+    </node>
+    <node id="TE">
+      <data key="d0">3</data>
+      <data key="d1">1.477818764566205</data>
+    </node>
+    <edge source="AM" target="AMC">
+      <data key="d2">0.3728411336994311</data>
+      <data key="d3">1.3394057825638805e-16</data>
+    </edge>
+    <edge source="AM" target="CF">
+      <data key="d2">0.35594764830960135</data>
+      <data key="d3">2.896159477598747e-15</data>
+    </edge>
+    <edge source="AM" target="CN">
+      <data key="d2">0.17605005983364655</data>
+      <data key="d3">9.423347769625972e-05</data>
+    </edge>
+    <edge source="AM" target="SXT">
+      <data key="d2">0.2384380245435477</data>
+      <data key="d3">1.2311386497548476e-07</data>
+    </edge>
+    <edge source="SXT" target="C">
+      <data key="d2">0.6208164880533512</data>
+      <data key="d3">3.84209079189393e-43</data>
+    </edge>
+    <edge source="SXT" target="CFO">
+      <data key="d2">0.22451133182548982</data>
+      <data key="d3">6.361639898998232e-07</data>
+    </edge>
+    <edge source="SXT" target="CFT">
+      <data key="d2">0.3861365919857691</data>
+      <data key="d3">1.0814721045974384e-17</data>
+    </edge>
+    <edge source="SXT" target="DO">
+      <data key="d2">0.5594729046333426</data>
+      <data key="d3">2.3149160154922516e-35</data>
+    </edge>
+    <edge source="SXT" target="TE">
+      <data key="d2">0.47032509899723124</data>
+      <data key="d3">1.7653333719488727e-25</data>
+    </edge>
+    <edge source="C" target="CFT">
+      <data key="d2">0.27855665106182287</data>
+      <data key="d3">6.46375457538356e-10</data>
+    </edge>
+    <edge source="CFT" target="CFO">
+      <data key="d2">0.45431701177943634</data>
+      <data key="d3">6.965606532499865e-24</data>
+    </edge>
+    <edge source="CFT" target="DO">
+      <data key="d2">0.22352760450445014</data>
+      <data key="d3">7.119247377206115e-07</data>
+    </edge>
+    <edge source="CFT" target="TE">
+      <data key="d2">0.20094547439619867</data>
+      <data key="d3">8.304245360942464e-06</data>
+    </edge>
+    <edge source="DO" target="TE">
+      <data key="d2">0.8065481911727752</data>
+      <data key="d3">1.408444454757749e-71</data>
+    </edge>
+  </graph>
+</graphml>
